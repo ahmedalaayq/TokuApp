@@ -19,7 +19,7 @@ class ColorsPage extends StatelessWidget {
         enName: 'Dusty Yellow',
         image: 'assets/images/colors/color_dusty_yellow.png'),
     NumberModel(
-        jpName: 'Haiiro ',
+        jpName: 'Haiiro',
         enName: 'Grey',
         image: 'assets/images/colors/color_gray.png'),
     NumberModel(
